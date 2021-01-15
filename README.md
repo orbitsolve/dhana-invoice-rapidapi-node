@@ -10,7 +10,9 @@ This example shows how to call this API using different HTTP client libraries
 # Pre-requisites
 1. Create your account with [RapidAPI](https://rapidapi.com) 
 2. Subscribe [Dhana Invoice](https://rapidapi.com/orbitsolve/api/dhana-invoice)
+    - It's free to use this API with a quota of 25 requests per month free.
 3. Get your API-Key  
+    - You can find API-Key from the Endpoints section or settings
 
 # To test this code
     npm install
