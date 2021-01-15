@@ -1,0 +1,25 @@
+{
+  "name": "dhana-invoice-rapidapi-node",
+  "version": "1.0.0",
+  "description": "Nodejs example to use Dhana Invoice API using RapidAPI account",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orbitsolve/dhana-invoice-rapidapi-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orbitsolve/dhana-invoice-rapidapi-node/issues"
+  },
+  "homepage": "https://github.com/orbitsolve/dhana-invoice-rapidapi-node#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "unirest": "^0.6.0"
+  }
+}
