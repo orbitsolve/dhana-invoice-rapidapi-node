@@ -1,4 +1,4 @@
-# dhana-invoice-rapidapi-node
+# How to call Dhana-Invoice-API from RapidAPI
 Dhana-Invoice API provides a simple way to generate Invoices for your customers.  This is a Nodejs example to use Dhana-Invoice API published in RapidAPI marketplace.  
 
 This example shows how to call this API using different HTTP client libraries
